@@ -1,3 +1,4 @@
+fmap
 // Map
 // creates a new array by applying a function to each element of the calling array
 
